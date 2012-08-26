@@ -6,3 +6,9 @@ img.center {
 	margin-left: auto;   
 	margin-right: auto; 
 }
+#delurl fieldset {
+	text-align: center;
+}
+#delurl .ui-btn.ui-submit {
+	margin: 0 5px;
+}
